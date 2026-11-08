@@ -1,0 +1,9 @@
+/Users/artemgappnov/Netology/QT/qt2/lesson2_1/build/Qt_6_12_0_for_macOS_Debug/CMakeFiles/lesson2_1.dir
+/Users/artemgappnov/Netology/QT/qt2/lesson2_1/build/Qt_6_12_0_for_macOS_Debug/CMakeFiles/edit_cache.dir
+/Users/artemgappnov/Netology/QT/qt2/lesson2_1/build/Qt_6_12_0_for_macOS_Debug/CMakeFiles/rebuild_cache.dir
+/Users/artemgappnov/Netology/QT/qt2/lesson2_1/build/Qt_6_12_0_for_macOS_Debug/CMakeFiles/list_install_components.dir
+/Users/artemgappnov/Netology/QT/qt2/lesson2_1/build/Qt_6_12_0_for_macOS_Debug/CMakeFiles/install.dir
+/Users/artemgappnov/Netology/QT/qt2/lesson2_1/build/Qt_6_12_0_for_macOS_Debug/CMakeFiles/install/local.dir
+/Users/artemgappnov/Netology/QT/qt2/lesson2_1/build/Qt_6_12_0_for_macOS_Debug/CMakeFiles/install/strip.dir
+/Users/artemgappnov/Netology/QT/qt2/lesson2_1/build/Qt_6_12_0_for_macOS_Debug/CMakeFiles/lesson2_1_autogen_timestamp_deps.dir
+/Users/artemgappnov/Netology/QT/qt2/lesson2_1/build/Qt_6_12_0_for_macOS_Debug/CMakeFiles/lesson2_1_autogen.dir
